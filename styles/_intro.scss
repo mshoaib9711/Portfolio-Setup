@@ -31,7 +31,7 @@ nav {
     padding-top: 2rem;
     background: $gradient;
     -webkit-text-fill-color: transparent;
-    background-clip: text;
+    -webkit-background-clip: text;
     display: inline-block;
   }
   h3 {
