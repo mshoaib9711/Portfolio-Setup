@@ -445,6 +445,10 @@ footer h4 {
     overflow-x: hidden;
     font-size: 45%;
   }
+  body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
   svg {
     height: 60%;
   }

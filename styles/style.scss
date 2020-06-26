@@ -40,6 +40,10 @@ $grey-text: #2c2c2c;
     overflow-x: hidden;
     font-size: 45%;
   }
+  body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
   svg {
     height: 60%;
   }
