@@ -36,6 +36,8 @@ $grey-text: #2c2c2c;
 }
 @media screen and (max-width: 754px) {
   html {
+    max-width: 100%;
+    overflow-x: hidden;
     font-size: 45%;
   }
   svg {
