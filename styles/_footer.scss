@@ -2,7 +2,6 @@ footer {
   background: $background-color;
   color: white;
   min-height: 10vh;
-  margin-top: 2rem;
   padding: 0% 5%;
   @include flex(flex-start, center, row);
   align-content: center;

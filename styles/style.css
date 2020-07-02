@@ -311,6 +311,10 @@ nav ul {
           flex: 1 1 40rem;
 }
 
+.project-footer {
+  margin-top: 2rem;
+}
+
 .form-section {
   min-height: 80vh;
   display: -webkit-box;
@@ -379,7 +383,6 @@ footer {
   background: #154353;
   color: white;
   min-height: 10vh;
-  margin-top: 2rem;
   padding: 0% 5%;
   display: -webkit-box;
   display: -ms-flexbox;
